@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Javier</h2>
 <h3 align="left">A Software Engineer specialized in Software Quality from Spain.</h3>
-<img align="left" width="400" src="https://images.pling.com/img/00/00/66/42/38/1904144/nord-lake.png">
+<img align="right" width="400" src="https://images.pling.com/img/00/00/66/42/38/1904144/nord-lake.png">
 
 - 📫 You can reach me in **javierortizdiez@icloud.com**
 
