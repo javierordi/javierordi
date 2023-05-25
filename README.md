@@ -13,8 +13,8 @@
 
 <h4 align="left">Mobile Testing Automation:</h4>
 <p align="left"> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> 
+    <a href="https://appium.io/docs/en/2.0/" target="_blank" rel="noreferrer"> <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/appium.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://maestro.mobile.dev/" target="_blank" rel="noreferrer"> <img src="https://559345148-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fn5KVIOjVkVjYRyVWZ0yT%2Ficon%2FiWOlXXbwVTJ9BL1NdnUu%2Ficon-w-bg.svg?alt=media&token=db2884aa-e09e-4296-b8c7-ac8f1c709343" alt="invision" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
