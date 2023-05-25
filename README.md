@@ -20,14 +20,6 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<h4 align="left">General for Testing:</h4>
-<p align="left"> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-    <a href="https://cucumber.io/docs/cucumber/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-    <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira?tab=overview&hosting=cloud" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/xray-for-jira.svg" alt="xray" width="40" height="40"/> </a> 
-</p>
-
 <h4 align="left">Coding:</h4>
 <p align="left"> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -45,3 +37,13 @@
     <a href="https://www.notion.so" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/S1jep__notion-logo.svg" alt="notion" width="40" height="40"/> </a>
     <a href="https://www.craft.do" target="_blank" rel="noreferrer"> <img src="https://www.craft.do/images/craft-logo-pack/PNG/craft_app_icon.png" alt="craft" width="40" height="40"/> </a>
 </p>
+
+<h4 align="left">Others:</h4>
+<p align="left"> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+    <a href="https://cucumber.io/docs/cucumber/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/> </a> 
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+    <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira?tab=overview&hosting=cloud" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/xray-for-jira.svg" alt="xray" width="40" height="40"/> </a> 
+    <a href="https://azure.microsoft.com/es-es/products/devops" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+</p>
+
