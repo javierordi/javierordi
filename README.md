@@ -15,7 +15,8 @@
 <p align="left"> 
     <a href="https://appium.io/docs/en/2.0/" target="_blank" rel="noreferrer"> <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/appium.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://maestro.mobile.dev/" target="_blank" rel="noreferrer"> <img src="https://559345148-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fn5KVIOjVkVjYRyVWZ0yT%2Ficon%2FiWOlXXbwVTJ9BL1NdnUu%2Ficon-w-bg.svg?alt=media&token=db2884aa-e09e-4296-b8c7-ac8f1c709343" alt="invision" width="50" height="50"/> </a> 
-    <a href="https://about.codecov.io/wp-content/uploads/2020/11/xctest-logo.png" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/czwjnyf8a9ri/2OWZnl3v2xJcqBZPIczU1s/1ea9ea383887e13d76b0b6c386ddf09c/logo-xcuitest.png?w=250" alt="postman" width="40" height="40"/> </a> 
+    <a href="https://developer.apple.com/documentation/xctest" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/czwjnyf8a9ri/2OWZnl3v2xJcqBZPIczU1s/1ea9ea383887e13d76b0b6c386ddf09c/logo-xcuitest.png?w=250" alt="xctest" width="40" height="40"/> </a>
+    <a href="https://developer.android.com/training/testing/espresso?hl=es-419" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/android/android-icon.svg" alt="android espresso" width="40" height="40"/> </a> 
 </p>
 
 <h4 align="left">Others:</h4>
